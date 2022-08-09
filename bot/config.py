@@ -7,7 +7,7 @@ class config:
     DOWNLOAD_DIRECTORY = "./downloads/"
     G_DRIVE_CLIENT_ID = "845446521261-77d47ikj13tkj0b2gohjvbbtk4ln273f.apps.googleusercontent.com"
     G_DRIVE_CLIENT_SECRET = "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"
-    SUPPORT_CHAT_LINK = "https://t.me/ap_gdrive_bot"
+    SUPPORT_CHAT_LINK = "https://t.me/ap_k_bots"
 
 
 class BotCommands:
@@ -21,7 +21,7 @@ class BotCommands:
   YtDl = ['ytdl']
 
 class Messages:
-    START_MSG = "**[Hi there] {}.**\n__I'm AP GDrive Bot.You can use me to upload any file / video to Google Drive from direct link or Telegram Files.__\n__You can know more from /help.__"
+    START_MSG = "** Hi there {}.**\n__I'm AP GDrive Bot.You can use me to upload any file / video to Google Drive from direct link or Telegram Files.__\n__You can know more from /help.__"
 
     HELP_MSG = [
         ".",
