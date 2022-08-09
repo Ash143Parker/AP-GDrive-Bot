@@ -41,7 +41,7 @@ def map(pos):
 
         button = [
             [
-             InlineKeyboardButton(text = 'Support Chat', url = "https://t.me/ap_gdrive_bot"),
+             InlineKeyboardButton(text = 'Support Chat', url = "https://t.me/ap_k_bots"),
              InlineKeyboardButton(text = 'Instagram', url = "https://www.instagram.com/ashutosh786palhare")
             ],
             [InlineKeyboardButton(text = '<--', callback_data = f"help+{pos-1}")]
